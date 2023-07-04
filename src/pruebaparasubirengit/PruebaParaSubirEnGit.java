@@ -10,6 +10,9 @@ public class PruebaParaSubirEnGit {
         Scanner nombres = new Scanner (System.in);
         System.out.println("Digite un nombre");
         int nombre1 = nombres.nextInt();
+        Scanner apellidos = new Scanner (System.in);
+        System.out.println("Digite un apellido");
+        int apellido1 = apellidos.nextInt();
     }
     
 }
