@@ -16,6 +16,8 @@ public class PruebaParaSubirEnGit {
         Scanner numeros = new Scanner (System.in);
         System.out.println("Digite un numero");
         int numero1 = numeros.nextInt();
+        System.out.println("Por favor digite un numero");
+        
     }
     
 }
